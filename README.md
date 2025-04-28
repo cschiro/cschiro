@@ -9,7 +9,8 @@ You can click the Preview link to take a look at your changes.
 I’m a software engineer passionate about solving problems and building impactful applications.
 
 ## 🚧 Projects
-- Docketeer: A developer-friendly application that provides a single interface for container and network management as well as metric visualization.. GitHub Repository: [https://github.com/open-source-labs/Docketeer-extension](https://github.com/open-source-labs/Docketeer-extension)
+- Docketeer: A developer-friendly application that provides a single interface for container and network management as well as metric visualization
+- GitHub Repository: [https://github.com/open-source-labs/Docketeer-extension](https://github.com/open-source-labs/Docketeer-extension)
 
 ## 📫 Get in Touch
 - 🔗 LinkedIn: [https://www.linkedin.com/in/chris-schiro/](https://www.linkedin.com/in/chris-schiro/)
